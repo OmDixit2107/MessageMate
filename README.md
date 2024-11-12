@@ -14,12 +14,6 @@ MessageMate is a **real-time chat application** built with **Flutter**, **Dart**
 - **Firebase**:
   - **Firebase Firestore** for storing and retrieving messages.
   - **Firebase Authentication** for handling user authentication.
-  
-## Project Structure
-- **lib/main.dart**: The entry point for the Flutter app, setting up the app structure and routing.
-- **lib/screens**: Contains various screens such as login, chat, and profile screens.
-- **lib/services**: Contains Firebase service functions for authentication and Firestore operations.
-- **lib/models**: Contains model classes for managing user data and chat messages.
 
 ## Getting Started
 
